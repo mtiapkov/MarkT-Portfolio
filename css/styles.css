@@ -9,12 +9,18 @@ body
 
 .sidebar
 {
-  float: left;
-  width: 25%;
+  float: right;
+  text-align: left;
+  width: 10%;
+  border: 2px;
+  border-style: solid;
+  padding: 5px;
+  background-color: darkgray;
 }
 
 .green
 {
   color: forestgreen;
   font-weight: 600;
+  font-size: larger;
 }
