@@ -1,14 +1,20 @@
 body
 {
-  font-family: Arial, Helvetica, sans-serif;
-  color: blue;
-  border: 10px solid black;
-  padding: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  color: black;
+  border: 5px solid black;
+  background-color: lightgray;
+  padding: 10px;
 }
 
 .sidebar
 {
   float: left;
   width: 25%;
-  background-color: lightblue
+}
+
+.green
+{
+  color: forestgreen;
+  font-weight: 600;
 }
