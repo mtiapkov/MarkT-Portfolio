@@ -31,3 +31,10 @@ body
   margin-right: auto;
   
 }
+
+.footnote
+{
+  font-size: smaller;
+  font-style: italic;
+  
+}
