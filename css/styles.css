@@ -1,0 +1,14 @@
+body
+{
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  border: 10px solid black;
+  padding: 5px;
+}
+
+.sidebar
+{
+  float: left;
+  width: 25%;
+  background-color: lightblue
+}
